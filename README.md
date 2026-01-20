@@ -1,5 +1,6 @@
 ## Yiota Pavlaki
 🔍 **Aspiring Analyst | Mathematics Graduate | Organised and Adaptable | Continuous Development**
+
 I’m a Mathematics graduate with a passion for problem-solving, evidence-based thinking, and turning complex information into clear, actionable outcomes.
 
 <!--
