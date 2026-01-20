@@ -9,23 +9,23 @@ Here are the tools and technologies I use to solve problems and craft data‑dri
 
 🧰 **Tools & Technologies**
 
-*Excel*
+➡️*Excel*
 - Comfortable using Pivot Tables and common formulas
 - Able to clean data and create clear, structured reports
   
-*Power BI*
+➡️*Power BI*
 - Confident building basic dashboards and visual reports
 - Comfortable working with simple measures and data models
   
-*Tableau*
+➡️*Tableau*
 - Able to design clear dashboards and visualizations
 - Comfortable using filters, parameters, and basic calculated fields
   
-*SQL* (MySQL / SQL Server)
+➡️*SQL* (MySQL / SQL Server)
 - Confident writing queries to extract and explore data
 - Comfortable using joins, grouping, and simple transformations
   
-*Python*
+➡️*Python*
 - Comfortable using Pandas and NumPy for data handling
 - Able to create small scripts for automation and exploratory analysis
 
