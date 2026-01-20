@@ -1,5 +1,7 @@
 <h1>💻 Yiota Pavlaki</h1>
 
+📍 **London, UK**
+
 🔍 **Aspiring Analyst | Mathematics Graduate | Organised and Adaptable | Continuous Development**
 
 🌟 Mathematics graduate with a passion for problem-solving, and turning complex information into clear, actionable outcomes.
