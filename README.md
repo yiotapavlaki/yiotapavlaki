@@ -10,7 +10,15 @@ Here are the tools and technologies I use to solve problems and craft data‑dri
 
 <h3>🧰 Tools & Technologies</h3>
 
-➡️<span style="text-decoration: underline; color: green;">Excel</span>
+<ul>
+  <li><b><span style="color:green;">Excel</span></b></li>
+  <li><b><span style="color:#b8860b;">Power BI</span></b></li>
+  <li><b><span style="color:red;">Tableau</span></b></li>
+  <li><b><span style="color:orange;">SQL</span></b></li>
+  <li><b><span style="color:blue;">Python</span></b></li>
+</ul>
+
+➡️*Excel*
 - Comfortable using Pivot Tables and common formulas
 - Able to clean data and create clear, structured reports
   
