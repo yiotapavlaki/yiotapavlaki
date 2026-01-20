@@ -38,7 +38,7 @@ Here are the tools and technologies I use to solve problems and craft data‑dri
 - 📚 Continuing to develop skills in data modeling, reporting, and modern analytics practices
 
 
-📫 Let's Connect
+📫 **Let's Connect**
 - [LinkedIn](https://www.linkedin.com/in/yiotapavlaki)
 - [Portfolio](https://github.com/yiotapavlaki)
 
