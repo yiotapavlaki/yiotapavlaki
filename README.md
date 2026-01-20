@@ -1,4 +1,5 @@
-## Hi there 👋
+## Yiota Pavlaki
+🔍 **Aspiring Analyst | Mathematics Graduate | Organised and Adaptable | Continuous Development**
 
 <!--
 **yiotapavlaki/yiotapavlaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
