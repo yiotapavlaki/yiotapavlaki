@@ -1,15 +1,16 @@
-## Yiota Pavlaki
+<h1>💻 Yiota Pavlaki</h1>
+<p style="font-size:18px;">Aspiring Data Analyst</p>
 🔍 **Aspiring Analyst | Mathematics Graduate | Organised and Adaptable | Continuous Development**
 
 🌟 Mathematics graduate with a passion for problem-solving, and turning complex information into clear, actionable outcomes.
 
-🛠️ **Core Skills**
+<h2>🛠️ Core Skills</h2>
 
 Here are the tools and technologies I use to solve problems and craft data‑driven stories:
 
-🧰 **Tools & Technologies**
+<h3>🧰 Tools & Technologies</h3>
 
-➡️*Excel*
+➡️<span style="text-decoration: underline; color: green;">Excel</span>
 - Comfortable using Pivot Tables and common formulas
 - Able to clean data and create clear, structured reports
   
@@ -30,15 +31,16 @@ Here are the tools and technologies I use to solve problems and craft data‑dri
 - Able to create small scripts for automation and exploratory analysis
 
 
+<h3>🌟 Goals</h3>
 
-🌟 **Goals**
 - 🚀 Transitioning from a strong background in Mathematics and teaching into a full‑time Data Analyst role
 - 📈 Strengthening technical expertise in Python, SQL, and Business Intelligence tools
 - 🧠 Building a portfolio of real‑world projects that demonstrate analytical thinking and problem‑solving
 - 📚 Continuing to develop skills in data modeling, reporting, and modern analytics practices
 
 
-📫 **Let's Connect**
+<h3>📫Let's Connect</h3>
+
 - [LinkedIn](https://www.linkedin.com/in/yiotapavlaki)
 - [Portfolio](https://github.com/yiotapavlaki)
 
