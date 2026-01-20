@@ -10,6 +10,7 @@ Here are the tools and technologies I use to solve problems and craft data‑dri
 
 <h3>🧰 Tools & Technologies</h3>
 
+
 <ul>
   <li><b><span style="color:green;">Excel</span></b></li>
   <li><b><span style="color:#b8860b;">Power BI</span></b></li>
@@ -17,6 +18,7 @@ Here are the tools and technologies I use to solve problems and craft data‑dri
   <li><b><span style="color:orange;">SQL</span></b></li>
   <li><b><span style="color:blue;">Python</span></b></li>
 </ul>
+
 
 ➡️*Excel*
 - Comfortable using Pivot Tables and common formulas
